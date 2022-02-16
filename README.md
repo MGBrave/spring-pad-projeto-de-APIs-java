@@ -1,4 +1,4 @@
-# Explorando Padrões de Projetos na Prática com Java
+#  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>Explorando Padrões de Projetos na Prática com Java  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 
 ### Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". 
 
